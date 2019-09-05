@@ -1,0 +1,22 @@
+{
+    "name": "cordova-in-app-update-android",
+    "version": "0.0.1",
+    "description": "A cordova plugin to support in-app updates in Android.",
+    "cordova": {
+      "id": "cordova-in-app-update-android",
+      "platforms": []
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/iamparthaonline/cordova-in-app-update-android.git"
+    },
+    "keywords": [
+      "ecosystem:cordova"
+    ],
+    "author": "Partha Roy",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/iamparthaonline/cordova-in-app-update-android/issues"
+    },
+    "homepage": "https://github.com/iamparthaonline/cordova-in-app-update-android#readme"
+  }
